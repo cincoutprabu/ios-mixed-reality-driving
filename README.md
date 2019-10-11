@@ -19,7 +19,7 @@ The toy car can either be a Silverlit Ferrari Italia 458 or any LEGO Technic veh
 :---: | :---:
 Silverlit Ferrari Italia 458 | LEGO 42029 Pick-Up Truck
 
-There are two options for sending camera/video feed from the toy car to the iPhone/. Either a PowerUp FPV drone (broken down and camera module hardware is extracted) or another iOS device (an iPhone or iPod touch) can be mounted on the LEGO truck or the Ferrari Italia.
+Two options are tried and tested for sending camera/video feed from the toy car to the iPhone. Either a PowerUp FPV drone (hacked and camera module hardware is extracted) or another iOS device (an iPhone or iPod touch) can be mounted on the LEGO truck or the Ferrari Italia. Parrot's ARSDK3 is used to receive video stream from PowerUp FPV drone. iOS Multipeer Connectivity is used to transfer video stream from one iOS device to another via Bluetooth.
 
 # Player Experience
 
