@@ -23,4 +23,4 @@ There are two options for sending camera/video feed from the toy car to the iPho
 
 # Player Experience
 
-Since the user sees what the car sees, the overall experience for the user might be a feel of sitting in the driver seat of the toy car and holding its steering wheel and issuing voice commands to drive it around.
+Since the user can see what the car sees via the Google Cardboard, the overall experience for the user might be a feel of sitting in the driver seat of Ferrari Italia or the Pick-Up Truck, and holding its steering wheel and issuing voice commands to drive it around.
