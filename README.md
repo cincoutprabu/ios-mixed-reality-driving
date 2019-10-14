@@ -1,6 +1,6 @@
 # iOS Mixed Reality Car Driving
 
-The idea is to build a prototype iOS app, with features to drive a toy car remotely using hand gestures, voice control and virtual reality headset. Imagine you are wearing a Google Cardboard virtual reality headset and seeing the live video stream from a toy car, and you're holding a steering wheel in your hand and saying voice commands to drive the car.
+The idea is to build a prototype iOS app, with features to drive a toy car remotely using hand gestures, voice control and virtual reality headset. Imagine you are wearing a Google Cardboard virtual reality headset and seeing the live video stream from a toy car, and you're holding a steering wheel in your hand and use voice commands and steering wheel to drive the car.
 
 The iOS app interfaces with following devices:
 
@@ -23,4 +23,4 @@ Two options are tried and tested for sending camera/video feed from the toy car 
 
 # Player Experience
 
-Since the user can see what the car sees via the Google Cardboard, the overall experience for the user might be a feel of sitting in the driver seat of Ferrari Italia or the Pick-Up Truck, and holding its steering wheel and issuing voice commands to drive it around.
+Since the user can see what the car sees via the Google Cardboard, the overall experience for the user might be a feel of sitting in the driver seat of Ferrari Italia or the Pick-Up Truck, and holding its steering wheel and issuing voice commands and use the steering wheel to drive it around.
